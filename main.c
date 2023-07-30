@@ -4,7 +4,6 @@ typedef struct team
 {
     char v[30];
 }t;
-void empty();
 void venue(char arq[]);
 void month(int mnt[]);
 void day(int* k);
